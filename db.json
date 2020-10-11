@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,23 +9,62 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    }
-  ],
-  "cats": [{
-      "catName": "Stanley",
-      "catBreed": "Tabby",
-      "id": 1
     },
     {
-      "catName": "Gunnar",
-      "catBreed": "American Shorthair",
-      "id": 2
+      "dogName": "Max",
+      "dogBreed": "Great Dane",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 4
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 5
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 6
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 7
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 8
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 9
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 10
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 11
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 12
+    },
+    {
+      "dogname": "hyrum",
+      "dogBreed": "hmail",
+      "id": 13
     }
-  ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  ]
 }
